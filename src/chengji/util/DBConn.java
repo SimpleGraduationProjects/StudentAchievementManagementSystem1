@@ -9,7 +9,7 @@ public class DBConn {
 	
 	
 	
-	private static String url = "jdbc:mysql://localhost:3306/graduation_sheji_db?characterEncoding=utf-8";
+	private static String url = "jdbc:mysql://localhost:3306/graduation_203_sheji_db?characterEncoding=utf-8";
 	
 	private static String username = "root";
 	
